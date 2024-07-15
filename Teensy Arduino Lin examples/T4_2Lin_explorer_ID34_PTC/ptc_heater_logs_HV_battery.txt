@@ -1,0 +1,972 @@
+Teensy 4.0 Lin Test
+19200 Baud Rate
+Lin1|ID: D3- Data FE:FE:1F:7:FE:FE:0:FF:- Check: A
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data FE:FE:18:7:FE:FE:0:FF:- Check: 11
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:A:40:7:A3:4C:0:FF:- Check: EA
+PTC| HV: 20V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:A:40:7:A1:4C:0:FF:- Check: EC
+PTC| HV: 20V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:9:40:7:A1:4C:0:FF:- Check: ED
+PTC| HV: 18V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:9:40:7:A3:4C:0:FF:- Check: EB
+PTC| HV: 18V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:8:40:7:A1:4C:0:FF:- Check: EE
+PTC| HV: 16V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:8:40:7:A1:4C:0:FF:- Check: EE
+PTC| HV: 16V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:8:40:7:A3:4C:0:FF:- Check: EC
+PTC| HV: 16V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:7:40:7:A1:4C:0:FF:- Check: EF
+PTC| HV: 14V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:7:40:7:A3:4C:0:FF:- Check: ED
+PTC| HV: 14V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:7:40:7:A1:4C:0:FF:- Check: EF
+PTC| HV: 14V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:6:40:7:A1:4C:0:FF:- Check: F0
+PTC| HV: 12V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:6:40:7:A3:4C:0:FF:- Check: EE
+PTC| HV: 12V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:6:40:7:A1:4C:0:FF:- Check: F0
+PTC| HV: 12V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5:40:7:A3:4C:0:FF:- Check: EF
+PTC| HV: 10V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5:40:7:A1:4C:0:FF:- Check: F1
+PTC| HV: 10V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5:40:7:A3:4C:0:FF:- Check: EF
+PTC| HV: 10V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5:40:7:A1:4C:0:FF:- Check: F1
+PTC| HV: 10V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5:40:7:A1:4C:0:FF:- Check: F1
+PTC| HV: 10V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4:40:7:A3:4C:0:FF:- Check: F0
+PTC| HV: 8V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4:40:7:A1:4C:0:FF:- Check: F2
+PTC| HV: 8V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4:40:7:A1:4C:0:FF:- Check: F2
+PTC| HV: 8V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4:40:7:A1:4C:0:FF:- Check: F2
+PTC| HV: 8V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4:40:7:A3:4C:0:FF:- Check: F0
+PTC| HV: 8V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A1:4C:0:FF:- Check: F3
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A1:4C:0:FF:- Check: F3
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A1:4C:0:FF:- Check: F3
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A1:4C:0:FF:- Check: F3
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A3:4C:0:FF:- Check: F1
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A1:4C:0:FF:- Check: F3
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3:40:7:A3:4C:0:FF:- Check: F1
+PTC| HV: 6V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:2:40:7:A3:4C:0:FF:- Check: F2
+PTC| HV: 4V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4C:0:FF:- Check: 88
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4C:0:FF:- Check: 88
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4C:0:FF:- Check: 88
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4C:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4C:0:FF:- Check: 88
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4C:0:FF:- Check: 88
+PTC| HV: 348V| Temp1: 19.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4D:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4D:0:FF:- Check: 87
+PTC| HV: 348V| Temp1: 19.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+
+! PTC Lim Req :80
+Lin1|ID: D3- Data 0:AE:0:7:A3:4E:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:50:0:- Check: 5F
+
+! PTC Temp Req :10
+Lin1|ID: D3- Data 0:AE:0:7:A1:4E:0:FF:- Check: 86
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AE:0:7:A3:4E:0:FF:- Check: 7E
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AE:0:7:A1:4E:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AE:0:7:A3:4E:0:FF:- Check: 7D
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AE:0:7:A3:4E:0:FF:- Check: 7D
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AE:0:7:9F:4E:0:FF:- Check: 81
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AE:0:7:A1:4E:0:FF:- Check: 7F
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AE:0:7:A3:4E:0:FF:- Check: 7E
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AE:0:7:A1:4E:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 8:AD:0:7:A1:4E:0:FF:- Check: 7F
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 8:AD:0:7:A1:4E:0:FF:- Check: 7F
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:A1:4E:0:FF:- Check: 80
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 8:AD:0:7:A1:4E:0:FF:- Check: 7F
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:A3:4E:0:FF:- Check: 7E
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AE:0:7:A1:4E:0:FF:- Check: 7F
+PTC| HV: 348V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:A1:4E:0:FF:- Check: 80
+PTC| HV: 346V| Temp1: 19.50C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:A3:4F:0:FF:- Check: 7D
+PTC| HV: 346V| Temp1: 19.75C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:A1:4F:0:FF:- Check: 7F
+PTC| HV: 346V| Temp1: 19.75C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 7:AD:0:7:9F:4F:0:FF:- Check: 81
+PTC| HV: 346V| Temp1: 19.75C|
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AD:0:7:A1:4F:0:FF:- Check: 80
+PTC| HV: 346V| Temp1: 19.75C|
+
+! PTC Temp Req :0
+Lin1|ID: A6- Data 39:C5:A:A:0:AA:50:0:- Check: 4B
+Lin1|ID: D3- Data 6:AD:0:7:A3:4F:0:FF:- Check: 7E
+PTC| HV: 346V| Temp1: 19.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:50:0:- Check: 5F
+
+! PTC Lim Req :0
+Lin1|ID: D3- Data 0:AE:0:7:A1:4F:0:FF:- Check: 85
+PTC| HV: 348V| Temp1: 19.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:50:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:50:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:50:0:FF:- Check: 82
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:50:0:FF:- Check: 82
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:50:0:FF:- Check: 84
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:50:0:FF:- Check: 82
+PTC| HV: 348V| Temp1: 20.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:51:0:FF:- Check: 83
+PTC| HV: 348V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:51:0:FF:- Check: 81
+PTC| HV: 348V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:51:0:FF:- Check: 83
+PTC| HV: 348V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:51:0:FF:- Check: 83
+PTC| HV: 348V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:A5:0:7:A1:51:0:FF:- Check: 8C
+PTC| HV: 330V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:9D:0:7:A1:51:0:FF:- Check: 94
+PTC| HV: 314V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:96:0:7:A1:51:0:FF:- Check: 9B
+PTC| HV: 300V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:8F:0:7:A1:51:0:FF:- Check: A2
+PTC| HV: 286V| Temp1: 20.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:89:0:7:A1:52:0:FF:- Check: A7
+PTC| HV: 274V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:82:0:7:A3:52:0:FF:- Check: AC
+PTC| HV: 260V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:7C:0:7:A1:52:0:FF:- Check: B4
+PTC| HV: 248V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:76:0:7:A1:52:0:FF:- Check: BA
+PTC| HV: 236V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:71:0:7:A1:52:0:FF:- Check: BF
+PTC| HV: 226V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:6C:0:7:A1:52:0:FF:- Check: C4
+PTC| HV: 216V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:67:0:7:A3:52:0:FF:- Check: C7
+PTC| HV: 206V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:62:0:7:A1:52:0:FF:- Check: CE
+PTC| HV: 196V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:5D:0:7:A1:52:0:FF:- Check: D3
+PTC| HV: 186V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:59:40:7:A1:52:0:FF:- Check: 97
+PTC| HV: 178V| Temp1: 20.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:55:40:7:A1:53:0:FF:- Check: 9A
+PTC| HV: 170V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:51:40:7:A3:53:0:FF:- Check: 9C
+PTC| HV: 162V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4D:40:7:A3:53:0:FF:- Check: A0
+PTC| HV: 154V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:4A:40:7:A1:53:0:FF:- Check: A5
+PTC| HV: 148V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:46:40:7:A1:53:0:FF:- Check: A9
+PTC| HV: 140V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:43:40:7:A3:53:0:FF:- Check: AA
+PTC| HV: 134V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:40:40:7:A3:53:0:FF:- Check: AD
+PTC| HV: 128V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3D:40:7:A3:53:0:FF:- Check: B0
+PTC| HV: 122V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:3A:40:7:A3:53:0:FF:- Check: B3
+PTC| HV: 116V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:37:40:7:A1:53:0:FF:- Check: B8
+PTC| HV: 110V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:35:40:7:A1:53:0:FF:- Check: BA
+PTC| HV: 106V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:32:40:7:A1:53:0:FF:- Check: BD
+PTC| HV: 100V| Temp1: 20.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:30:40:7:A1:54:0:FF:- Check: BE
+PTC| HV: 96V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:2E:40:7:A1:54:0:FF:- Check: C0
+PTC| HV: 92V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:54:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A3:54:0:FF:- Check: 7E
+PTC| HV: 348V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:54:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:54:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 21.00C|
+
+! PTC Lim Req :80
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AE:0:7:A1:54:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 21.00C|
+
+! PTC Temp Req :15
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:50:0:- Check: 5F
+Lin1|ID: D3- Data 0:AE:0:7:A1:54:0:FF:- Check: 80
+PTC| HV: 348V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A3:54:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:9F:54:55:FF:- Check: 20
+PTC| HV: 346V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A3:54:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 21.00C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:55:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:55:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:55:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:55:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:9F:55:55:FF:- Check: 1F
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:55:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A3:55:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 21.25C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:56:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:9F:56:55:FF:- Check: 1E
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A1:56:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A3:56:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:9F:56:55:FF:- Check: 1E
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+Lin1|ID: D3- Data A:AD:4:7:A3:56:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:F:F:0:AA:50:0:- Check: 41
+
+! PTC Temp Req :40
+Lin1|ID: D3- Data A:AD:4:7:A1:56:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 21.50C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:9F:57:55:FF:- Check: 1D
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:57:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:57:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:57:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:57:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A3:57:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 21.75C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:58:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:58:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:58:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:58:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:9F:58:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A3:58:55:FF:- Check: 18
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data 9:AD:4:7:A3:58:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 22.00C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data 9:AD:4:7:9F:59:55:FF:- Check: 1C
+PTC| HV: 346V| Temp1: 22.25C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:59:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 22.25C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A3:59:55:FF:- Check: 17
+PTC| HV: 346V| Temp1: 22.25C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:9F:59:55:FF:- Check: 1B
+PTC| HV: 346V| Temp1: 22.25C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data A:AD:4:7:A1:5A:55:FF:- Check: 18
+PTC| HV: 346V| Temp1: 22.50C|
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data 9:AD:4:7:A3:5A:55:FF:- Check: 17
+PTC| HV: 346V| Temp1: 22.50C|
+
+! PTC Temp Req :50
+Lin1|ID: A6- Data 39:C5:28:28:0:AA:50:0:- Check: F
+Lin1|ID: D3- Data 9:AD:4:7:A1:5A:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 22.50C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:9F:5A:55:FF:- Check: 1A
+PTC| HV: 346V| Temp1: 22.50C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A1:5B:55:FF:- Check: 17
+PTC| HV: 346V| Temp1: 22.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A3:5B:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 22.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:9F:5B:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 22.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data B:AD:4:7:A1:5B:55:FF:- Check: 16
+PTC| HV: 346V| Temp1: 22.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data B:AD:4:7:A3:5B:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 22.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data 9:AD:4:7:9F:5C:55:FF:- Check: 19
+PTC| HV: 346V| Temp1: 23.00C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data 9:AD:4:7:A3:5C:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 23.00C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A3:5C:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 23.00C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:9F:5D:55:FF:- Check: 17
+PTC| HV: 346V| Temp1: 23.25C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A1:5D:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 23.25C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A1:5D:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 23.25C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A1:5D:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 23.25C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:9F:5E:55:FF:- Check: 16
+PTC| HV: 346V| Temp1: 23.50C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A3:5E:55:FF:- Check: 12
+PTC| HV: 346V| Temp1: 23.50C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:A3:5F:55:FF:- Check: 11
+PTC| HV: 346V| Temp1: 23.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+Lin1|ID: D3- Data A:AD:4:7:9F:5F:55:FF:- Check: 15
+PTC| HV: 346V| Temp1: 23.75C|
+Lin1|ID: A6- Data 39:C5:32:32:0:AA:50:0:- Check: FA
+
+! PTC Temp Req :60
+Lin1|ID: D3- Data A:AD:4:7:A3:5F:55:FF:- Check: 11
+PTC| HV: 346V| Temp1: 23.75C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A1:5F:55:FF:- Check: 13
+PTC| HV: 346V| Temp1: 23.75C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:60:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A1:60:55:FF:- Check: 12
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:60:55:FF:- Check: 10
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:60:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:60:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:60:55:FF:- Check: 10
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:60:55:FF:- Check: 14
+PTC| HV: 346V| Temp1: 24.00C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:61:55:FF:- Check: 13
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:61:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A1:61:55:FF:- Check: 11
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:61:55:FF:- Check: 13
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:61:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A1:61:55:FF:- Check: 11
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:61:55:FF:- Check: 13
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:61:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:A3:61:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.25C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+Lin1|ID: D3- Data A:AD:4:7:9F:62:55:FF:- Check: 12
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:3C:3C:0:AA:50:0:- Check: E6
+
+! PTC Temp Req :70
+Lin1|ID: D3- Data B:AD:4:7:A1:62:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:A3:62:55:FF:- Check: E
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:A1:62:55:FF:- Check: 10
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:9F:62:55:FF:- Check: 12
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:A3:62:55:FF:- Check: E
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:A1:63:55:FF:- Check: F
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AD:4:7:9F:63:55:FF:- Check: 11
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:A3:63:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:A3:63:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:9F:63:55:FF:- Check: 12
+PTC| HV: 344V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:A3:64:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.00C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data 9:AC:4:7:A1:64:55:FF:- Check: 10
+PTC| HV: 344V| Temp1: 25.00C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data 9:AC:4:7:9F:65:55:FF:- Check: 11
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:A1:65:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.25C|
+
+! PTC Lim Req :100
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:50:0:- Check: D2
+Lin1|ID: D3- Data A:AC:4:7:A1:65:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:65:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:65:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A3:65:55:FF:- Check: C
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A3:65:55:FF:- Check: C
+PTC| HV: 344V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:9F:66:55:FF:- Check: F
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:9F:66:55:FF:- Check: F
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:9F:66:55:FF:- Check: F
+PTC| HV: 344V| Temp1: 25.50C|
+
+! PTC Temp Req :80
+Lin1|ID: A6- Data 39:C5:46:46:0:AA:64:0:- Check: BE
+Lin1|ID: D3- Data A:AC:4:7:A1:66:55:FF:- Check: D
+PTC| HV: 344V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:A1:67:55:FF:- Check: C
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:9F:67:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:A3:67:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:A3:67:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:9F:67:55:FF:- Check: E
+PTC| HV: 344V| Temp1: 25.75C|
+
+! PTC Lim Req :120
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:64:0:- Check: AA
+Lin1|ID: D3- Data A:AC:4:7:A3:67:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A3:67:55:FF:- Check: 9
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A1:67:55:FF:- Check: B
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A1:67:55:FF:- Check: B
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A3:67:55:FF:- Check: 9
+PTC| HV: 344V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AD:4:7:9F:67:55:FF:- Check: C
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AD:4:7:9F:67:55:FF:- Check: C
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AD:4:7:A1:67:55:FF:- Check: A
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A1:68:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:9F:68:55:FF:- Check: C
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A1:68:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:A1:68:55:FF:- Check: A
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data B:AC:4:7:9F:68:55:FF:- Check: C
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+Lin1|ID: D3- Data A:AC:4:7:A3:68:55:FF:- Check: 9
+PTC| HV: 344V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:50:50:0:AA:78:0:- Check: 96
+
+! PTC Temp Req :0
+Lin1|ID: D3- Data B:AC:4:7:A3:68:55:FF:- Check: 8
+PTC| HV: 344V| Temp1: 26.00C|
+
+! PTC Lim Req :0
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:78:0:- Check: 37
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:68:0:FF:- Check: 6B
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:68:0:FF:- Check: 6B
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:68:0:FF:- Check: 6B
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:68:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 26.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:67:0:FF:- Check: 6E
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:67:0:FF:- Check: 6C
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:67:0:FF:- Check: 6C
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:67:0:FF:- Check: 6C
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:67:0:FF:- Check: 6E
+PTC| HV: 346V| Temp1: 25.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:66:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:66:0:FF:- Check: 6D
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:66:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:65:0:FF:- Check: 6E
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:65:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:65:0:FF:- Check: 6E
+PTC| HV: 346V| Temp1: 25.25C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:64:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:64:0:FF:- Check: 71
+PTC| HV: 346V| Temp1: 25.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:64:0:FF:- Check: 6F
+PTC| HV: 346V| Temp1: 25.00C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:63:0:FF:- Check: 72
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:63:0:FF:- Check: 70
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:63:0:FF:- Check: 72
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:63:0:FF:- Check: 72
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:63:0:FF:- Check: 72
+PTC| HV: 346V| Temp1: 24.75C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:62:0:FF:- Check: 73
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:62:0:FF:- Check: 73
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A3:62:0:FF:- Check: 71
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:62:0:FF:- Check: 73
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
+Lin1|ID: D3- Data 0:AD:0:7:A1:62:0:FF:- Check: 73
+PTC| HV: 346V| Temp1: 24.50C|
+Lin1|ID: A6- Data 39:C5:0:0:0:AA:0:0:- Check: AF
